@@ -14,7 +14,7 @@ public class StockSystem {
 		int option = 0;
 
         // Produtos iniciais para teste
-        productList.add(new Product(idCounter++, "Arroz 5kg", 450.00, 20));
+//        productList.add(new Product(idCounter++, "Arroz 5kg", 450.00, 20));
         productList.add(new Product(idCounter++, "Óleo da Malta 1L", 130.00, 15));
 
         //Main Menu Loop
